@@ -18,8 +18,8 @@ int main() {
         printf("\t6- Tum Kayitlari Listele\n");
         printf("\t7- Cikis\n");
         printf("\tLutfen menuden bir secenegi tam sayi olarak giriniz. Girdiginiz secenekteki islem gerceklestirilecektir.\n");
-        printf("\tEK NOT: Guncel ogrenci, Ogrenci Ekleme secenegi secildigi"
-               "zaman, en son eklenen ogrenci olarak listelenecektir.\n\tBunun haricinde 4. ve 5. menu secenegi kullanarak kayidi degistirebilirsiniz.\n");
+        printf("\tEK NOT: Guncel ogrenci, Ogrenci Ekleme secenegi secildigi zaman, en son eklenen ogrenci olarak listelenecektir.\n");
+        printf("\tBunun haricinde 4. ve 5. menu secenegi kullanarak kayidi degistirebilirsiniz.\n");
         
         int input;
         scanf("%d", &input);
